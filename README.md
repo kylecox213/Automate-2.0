@@ -2,7 +2,7 @@
 
 **AutoMate** is a digital customer data management system developed for the owner of a local tire & auto body shop in the Richmond area. It provides simple CRUD (create, read, update, and delete) functionality for records of customers, vehicles, and service transactions. This application is still under development. Before deploying to final product to our client, we will also add report-generating functionality. Reports will be generated and sent to the business owner automatically every two weeks, but users will also have the option of generating reports manually for timeframes of interest. Additionally, the final version of this application will be packaged as a stand-alone desktop application, and data backups will be configured as a Windows scheduled - once a week the database will be automatically uploaded to a Dropbox folder.
 
-<img src="./public/imgs/automate.png" alt="AutoMate" title="AutoMate Page Screenshot" width=600 height="auto">
+<img src="./client/public/imgs/automate.png" alt="AutoMate" title="AutoMate Page Screenshot" width=600 height="auto">
 
 
 ## Try it Out!
