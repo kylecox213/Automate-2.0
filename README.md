@@ -43,10 +43,10 @@ Log in with the following credentials.
 ## Development Team
 
 ### Alex Cox
-**Roles:** Client interfacing; Business requirements assessment; JavaScript programming; database model definitions; React component construction.
+**Roles:** Client interfacing; Business requirements assessment; JavaScript programming; Authentication implementation; Database design; React component construction.
 
 ### Dylan Vavra
-**Roles:** JavaScript programming; authentication implementation; RESTful API routing; Node & Express server development; database design; React component construction; Heroku demo deployment; ReadMe documentation.
+**Roles:** JavaScript programming; Authentication implementation; RESTful API routing; Node & Express server development; Database design; React component construction; Heroku demo deployment; ReadMe documentation.
 
 ---
 
