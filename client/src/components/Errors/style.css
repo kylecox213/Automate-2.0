@@ -1,0 +1,19 @@
+.errorModal {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background: #F8D7DA;
+    color: #721D1B;
+}
+
+#closeModal {
+    font-weight: bold;
+    float: right;
+    margin-right: 12px;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+#closeModal:hover {
+    cursor: pointer;
+}
